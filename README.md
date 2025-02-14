@@ -32,6 +32,6 @@ A Python-based project planner that reads tasks from a CSV file, orders them bas
 4. Select a CSV file when prompted.
 
 ## 🔗 Connect with Me:
-- [Behance]([https://www.behance.net/YOURPROFILE](https://www.behance.net/ashantiJ)
+- [Behance](https://www.behance.net/ashantiJ)
 - [LinkedIn](https://www.linkedin.com/in/ashanti-j-retana/)
 
