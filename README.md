@@ -19,8 +19,9 @@ A Python-based project planner that reads tasks from a CSV file, orders them bas
 
 ![Project Planner Demo](https://github.com/ashantijr/Project-Planner-App/blob/main/Project%20Planner%20demo.gif)
 
-👉 **Want to see the full code?**  
-[📂 View on GitHub](https://github.com/ashantijr/Project-Planner-App)
+## 📂 Full Project Code  
+Want to explore the full source code? Check it out on GitHub!  
+🔗 [View on GitHub](https://github.com/ashantijr/Project-Planner-App)
 
 ---
 ## 🚀 How to Run:
