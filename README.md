@@ -7,20 +7,31 @@ A Python-based project planner that reads tasks from a CSV file, orders them bas
 ✅ Automatically schedules tasks based on dependencies  
 ✅ Displays a Gantt chart with task names and timeframes  
 ✅ Interactive UI for opening project files  
+---
 
+## **📽️ Project Demo (GIF)**
+🎥 **Watch the Project Planner in Action**: This GIF showcases the full workflow – from loading the script to generating the task visualization.
+
+📌 **Key Features:**
+- 📂 Reads a **CSV file** of project tasks.
+- 🔄 Automatically schedules tasks **based on dependencies**.
+- 📊 Displays a **Gantt chart** for project planning.
+
+![Project Planner Demo](https://github.com/ashantijr/Project-Planner-App/blob/main/Project%20Planner%20demo.gif)
+
+👉 **Want to see the full code?**  
+[📂 View on GitHub](https://github.com/ashantijr/Project-Planner-App)
+
+---
 ## 🚀 How to Run:
 1. Install Python 3.x
-2. Clone this repository: git clone https://github.com/ashantijr/Project-Planner-App.git
+2. Clone this repository:
+   ```bash
+   git clone https://github.com/ashantijr/Project-Planner-App.git
 3. Run the script: python planner.py
 4. Select a CSV file when prompted.
 
-## 📸 Screenshots:
-![Project Planner UI](https://yourimageurl.com/screenshot.png)
-
-## 🌐 Live Demo:
-👉 [Watch the demo video here](your_youtube_link)
-
 ## 🔗 Connect with Me:
-- [Behance](https://www.behance.net/YOURPROFILE)
-- [LinkedIn](https://www.linkedin.com/in/YOURNAME)
+- [Behance]([https://www.behance.net/YOURPROFILE](https://www.behance.net/ashantiJ)
+- [LinkedIn](https://www.linkedin.com/in/ashanti-j-retana/)
 
